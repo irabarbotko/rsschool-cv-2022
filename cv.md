@@ -62,4 +62,13 @@
 ## Education
 Master of Science: **Chemical technology** 2008-2013 **Ukrainian State Chemical Technology University**, Dnipro, Ukraine
 
+## Certificates
 
+ - HTML/CSS: **CanSheCode** 2022, Montreal, Canada
+ - Target: **RED SMM**, 2021, Moscow, Russia
+ - Web design: **3Second**, 2020, Minsk, Belarus 
+ - Web UI/UX Design: **IMT Academy** 2019 Dnipro, Ukraine 
+ - HTML/CSS: **IMT Academy** 2018, Dnipro, Ukraine
+
+
+## THANK YOU FOR YOUR ATTENTION
