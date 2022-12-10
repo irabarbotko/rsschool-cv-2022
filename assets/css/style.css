@@ -73,7 +73,7 @@ a:focus:after {
 	width: 100%; /*устанавливаем значение 100% чтобы ссылка подчёркивалась полностью*/
 }
 
-.header__title {
+.header__title h1 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
@@ -81,6 +81,11 @@ a:focus:after {
     line-height: 44px;
     text-transform: uppercase;
     color: #FFFFFF;
+}
+.header__contact {
+    text-transform: lowercase;
+    font-style: normal;
+    font-weight: 100; 
 }
 
 .wrapper {
