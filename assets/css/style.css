@@ -394,9 +394,6 @@ form {
 	margin-bottom: 30px;
 }
 
-.footer { 
-    margin: 0 80px 80px 80px;
-}
 hr {
     width: 100%;
     color: #131716;
@@ -411,6 +408,24 @@ hr {
 	text-transform: uppercase;
 	color: #43524D; 
     padding-top: 20px;
+}
+.logo-rss {
+    width: 121px;
+    height: 45px;
+    background-image: url(/assets/img/rs_school.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: #5c5c5c;
+}
+
+.footer {
+    margin: 0 80px 80px 80px;
 }
 
 @media all and (max-width: 800px){
